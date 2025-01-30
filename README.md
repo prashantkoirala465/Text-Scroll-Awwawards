@@ -80,7 +80,7 @@ return (
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/prashantkoirala465/Text-Scroll-Awwawards
    cd text-scroll-awwawards
    ```
 
