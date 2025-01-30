@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Main';
+  src: url('../../public/ClashDisplay-Bold.otf');
+}
+
+body{
+  font-family: 'Main';
+  background-color: rgb(24, 24, 24);
+}
